@@ -1,6 +1,6 @@
 import Foundation
 
-let url = URL(string: "https://api.example.com/data")!
+let url = URL(string: "https://raw.githubusercontent.com/dpunk12/Swift/refs/heads/main/Calling%20an%20API%20in%20Swift%20(Client-side)?token=GHSAT0AAAAAADD2C3TGJWQCKK2KEO4OMD4U2BDOZPQ")!
 var request = URLRequest(url: url)
 request.httpMethod = "GET"
 
